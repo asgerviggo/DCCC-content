@@ -1,5 +1,5 @@
 ---
-title: "Apparatur"
+title: "Apparatur",
 ---
 
 # Strålebehandling

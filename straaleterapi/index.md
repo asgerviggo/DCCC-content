@@ -1,5 +1,5 @@
 ---
-title: "Stråleterapi"
+title: "Stråleterapi",
 ---
 
 # Hvad er stråleterapi?

@@ -1,5 +1,5 @@
 ---
-title: "Name in ToC",
+title: "Forskningsgrupper",
 ---
 
 # Forsknings-grupper
