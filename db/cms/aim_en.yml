@@ -1,0 +1,20 @@
+footer:
+  left:
+    domain: DCCC Stråleterapi
+    availability:
+      title: Tilgængelighedserklæring - webtilgængelighed
+      url: /om-os/tilgaengelighedserklaering/
+  center:
+    title: Nationalt Forskningscenter for Stråleterapi
+    subtitles:
+      - Støttet af Kræftens Bekæmpelse
+      - En del af Danish Comprehensive Cancer Center
+    slogan: Mere forskning - Bedre behandling - Færre bivirkninger
+  right:
+    contact:
+      title: 'Kontakt os på:'
+      mail: mail@straaleterapi.dk
+    socials:
+      title: 'Følg med:'
+      places: []
+logo: /dccc.svg
